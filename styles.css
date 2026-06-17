@@ -232,6 +232,7 @@ ul {
 .your-projects-body{
     grid-row: 2;
     grid-column: 1;
+    overflow-y: auto;
 }
 
 .announcements{
